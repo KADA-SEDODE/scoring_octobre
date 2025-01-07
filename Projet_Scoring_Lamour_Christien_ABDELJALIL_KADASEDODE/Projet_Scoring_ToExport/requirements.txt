@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+missingno
+skimpy
+xgboost
+scikit-learn
+scipy
+statsmodels
+optbinning
+lightgbm
+shap
+black
+optuna
+nbformat>=4.2.0
